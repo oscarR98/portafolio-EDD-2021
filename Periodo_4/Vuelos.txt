@@ -1,0 +1,23 @@
+San Salvador,Miami
+Miami,Paris
+Paris,Hong Kong
+San Salvador,Bogota
+Bogota,Paris
+Miami,San Francisco
+San Salvador,Madrid
+Madrid,Guatemala
+Guatemala,San Salvador
+Ecuador,San Salvador
+San Salvador,Ecuador
+San Salvador,Canada
+Canada,San Salvador
+San Salvador,San Francisco
+San Francisco,San Salvador
+San Salvador,Washington
+Washington,San Salvador
+San Salvador,Houston
+Houston,Atlanta
+Atlanta,Houston
+Houston,San Salvador
+San Salvador,Dallas Fort Worth
+Dallas Fort Worth,San Salvador
